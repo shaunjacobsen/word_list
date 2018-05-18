@@ -1,0 +1,18 @@
+{
+  "name": "word-of-day",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Shaun Jacobsen",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "9.3.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
